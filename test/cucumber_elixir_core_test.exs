@@ -1,6 +1,6 @@
-defmodule CucumberElixirCoreTest do
+defmodule CucumberCoreTest do
   use ExUnit.Case
-  doctest CucumberElixirCore
+  doctest Cucumber.Core
 
   test "the truth" do
     assert 1 + 1 == 2

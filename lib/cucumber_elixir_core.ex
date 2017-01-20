@@ -1,2 +1,2 @@
-defmodule CucumberElixirCore do
+defmodule Cucumber.Core do
 end

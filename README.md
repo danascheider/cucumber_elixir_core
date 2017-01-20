@@ -1,4 +1,4 @@
-# CucumberElixirCore
+# Cucumber Elixir Core
 
 **TODO: Add description**
 
