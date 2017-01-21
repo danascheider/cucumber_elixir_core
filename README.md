@@ -6,7 +6,7 @@ It contains the core domain logic to execute Cucumber features. It has no user i
 
 ### An overview
 
-The entry-point is a single function on the module [`Cucumber.Core`](Cucumber/Core.html) called [`execute`](Cucumber/Core.html#execute-instance_method). Here's what it does:
+The entry-point is a single function on the module [`Cucumber.Core`](Cucumber/Core.html) called `execute`. Here's what it does:
 
 1. Parses the plain-text Gherkin documents into an **AST**
 2. Compiles the AST down to **test cases**
