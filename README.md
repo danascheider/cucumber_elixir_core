@@ -2,7 +2,7 @@
 
 Cucumber Core is the [inner hexagon](http://alistair.cockburn.us/Hexagonal+architecture) for the Elixir flavour of Cucumber (currently in progress).
 
-It contains the core domain logic to execute Cucumber features. It has no user interface, just a Ruby API. If you're interested in how Cucumber works, or in building other tools that work with Gherkin documents, you've come to the right place.
+It contains the core domain logic to execute Cucumber features. It has no user interface, just an Elixir API. If you're interested in how Cucumber works, or in building other tools that work with Gherkin documents, you've come to the right place.
 
 ### An overview
 
